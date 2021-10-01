@@ -211,6 +211,7 @@ class ArrayTest {
 	{
 			Array array = new Array();
 			Array.insert(-2,0);
+			//Yesh
 			Array.insert(-3,1);
 			Array.insert(0,2);
 			Array.insert(-3,3);
