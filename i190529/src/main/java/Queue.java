@@ -1,4 +1,4 @@
-package ass01;
+
 
 //Program to implement Queue fusing LinkedList.
 public class Queue{

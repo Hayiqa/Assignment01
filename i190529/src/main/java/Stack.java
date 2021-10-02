@@ -1,4 +1,4 @@
-package ass01;
+
 
 public class Stack{
 	//class Node for LinkedList.
